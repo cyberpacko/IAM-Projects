@@ -23,8 +23,7 @@ Build an automated Joiner–Mover–Leaver (JML) workflow that provisions, updat
 
 ## Screenshots
 
-_Add any screenshots here._
 
 ## Notes
 
-_Add any observations or notes._
+
